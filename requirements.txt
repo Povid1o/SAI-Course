@@ -4,3 +4,13 @@ scikit-learn
 seaborn
 matplotlib
 ipykernel
+tensorflow==2.18.1
+# tensorflow-metal is temporarily commented out as it frequently breaks dyld on MAC
+torch
+nltk
+catboost
+lightautoml
+recbole
+statsmodels
+scikit-uplift
+reverse_geocoder
